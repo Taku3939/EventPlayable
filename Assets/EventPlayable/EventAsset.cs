@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class EventAsset : MonoBehaviour
+namespace EventPlayble
 {
-    public virtual void EventAction()
+    public abstract class EventAsset : MonoBehaviour
     {
+        public virtual void EventAction() { }
     }
 }

@@ -5,19 +5,22 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-[Serializable]
-public class EventControlClip :  PlayableAsset, ITimelineClipAsset
+namespace EventPlayble
 {
-    public EventPlayableBehaviour template = new EventPlayableBehaviour();
-    public ClipCaps clipCaps
+    [Serializable]
+    public class EventControlClip : PlayableAsset, ITimelineClipAsset
     {
-        get { return ClipCaps.Blending; }
-    }
+        public EventPlayableBehaviour template = new EventPlayableBehaviour();
 
-    public override Playable CreatePlayable (PlayableGraph graph, GameObject owner)
-    {
-        var playable = ScriptPlayable<EventPlayableBehaviour>.Create (graph, template);
-        return playable;
+        public ClipCaps clipCaps
+        {
+            get { return ClipCaps.Blending; }
+        }
+
+        public override Playable CreatePlayable(PlayableGraph graph, GameObject owner)
+        {
+            var playable = ScriptPlayable<EventPlayableBehaviour>.Create(graph, template);
+            return playable;
+        }
     }
 }
-

@@ -25,11 +25,38 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c0b2d02-4475-45a8-bd57-b187eae32c8c" name="Default Changelist" comment="" />
+    <list default="true" id="9c0b2d02-4475-45a8-bd57-b187eae32c8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EventPlayable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EventPlayable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/ExampleEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/ExampleEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EventPlayable/Timeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EventPlayable/Timeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/7064d1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/7064d1-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Timeline/c96d1305f5b5fb8459d209133449fd4e.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Timeline/c96d1305f5b5fb8459d209133449fd4e.pref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/44/443af1dbc83729f42bfaca8e5d52c005" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/44/443af1dbc83729f42bfaca8e5d52c005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/44/443af1dbc83729f42bfaca8e5d52c005.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/44/443af1dbc83729f42bfaca8e5d52c005.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/79/7966b4b23f6e36e40971f8d811794963" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/79/7966b4b23f6e36e40971f8d811794963" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/79/7966b4b23f6e36e40971f8d811794963.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/79/7966b4b23f6e36e40971f8d811794963.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/7a/7a07a490bde762d409ca8953c7e2f4ac" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/7a/7a07a490bde762d409ca8953c7e2f4ac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/7a/7a07a490bde762d409ca8953c7e2f4ac.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/7a/7a07a490bde762d409ca8953c7e2f4ac.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b3e1b314e994cc24da53eedb582b9fe8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b3/b3e1b314e994cc24da53eedb582b9fe8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b3e1b314e994cc24da53eedb582b9fe8.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b3/b3e1b314e994cc24da53eedb582b9fe8.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d4/d4cfea118724843448cba79c410688a0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d4/d4cfea118724843448cba79c410688a0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/00/08b7c9cb/ScriptPlayable`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -44,6 +71,7 @@
     <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/LightControl/LightControlClip.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/ExampleEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E03C216C-C156-4BD3-993F-0906EDBC434A/d2/76002f08/TimeControlPlayable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -51,14 +79,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableAsset.cs" />
-        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" />
-        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" />
-        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" />
         <option value="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/ExampleEvent.cs" />
       </list>
     </option>
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\document\unityData\Unity Projects\EventPlayable\.idea\.idea.EventPlayable\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1axIaQq3S9ZGf9XeaBsCBiiu92q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,6 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -91,7 +129,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587670880382</updated>
       <workItem from="1587670881843" duration="2752000" />
-      <workItem from="1587701400818" duration="2613000" />
+      <workItem from="1587701400818" duration="3264000" />
+      <workItem from="1587706439258" duration="298000" />
     </task>
     <servers />
   </component>
