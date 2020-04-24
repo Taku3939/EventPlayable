@@ -9,11 +9,6 @@ namespace EventPlayble
     {
         public EventAsset Asset;
 
-        void Test()
-        {
-            Debug.Log("ss");
-        }
-
         public override void ProcessFrame(Playable playable, FrameData info, object playerData)
         {
             if (Asset == null)
@@ -26,31 +21,31 @@ namespace EventPlayble
         // Called when the owning graph starts playing
         public override void OnGraphStart(Playable playable)
         {
-            //Test();
+            Asset.OnStart();
         }
 
         // Called when the owning graph stops playing
         public override void OnGraphStop(Playable playable)
         {
-
+            Asset.OnStop();
         }
 
         // Called when the state of the playable is set to Play
         public override void OnBehaviourPlay(Playable playable, FrameData info)
         {
-            Asset.EventAction();
+            Asset.OnClipStart();
         }
 
         // Called when the state of the playable is set to Paused
         public override void OnBehaviourPause(Playable playable, FrameData info)
         {
-
+            Asset.OnClipStop();
         }
 
         // Called each frame while the state is set to Play
         public override void PrepareFrame(Playable playable, FrameData info)
         {
-
+            Asset.TimelineUpdate();
         }
     }
 }
