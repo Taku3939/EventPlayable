@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c0b2d02-4475-45a8-bd57-b187eae32c8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/00/08b7c9cb/ScriptPlayable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/LightControl/LightControlMixerBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E03C216C-C156-4BD3-993F-0906EDBC434A/a2/e58fdac2/ControlPlayableAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/LightControl/LightControlTrack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E03C216C-C156-4BD3-993F-0906EDBC434A/c3/5400df69/ControlTrack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventPlayableBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/LightControl/LightControlBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/07/72f198e4/ExposedReference`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/EventPlayable/EventPlayableBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ClusterCreatorKitSample/Assets/DefaultPlayables/LightControl/LightControlClip.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E03C216C-C156-4BD3-993F-0906EDBC434A/d2/76002f08/TimeControlPlayable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventTrackAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventControlClip.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/EventPlayable/EventPlayableBehaviour.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1axIaQq3S9ZGf9XeaBsCBiiu92q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0b2d02-4475-45a8-bd57-b187eae32c8c" name="Default Changelist" comment="" />
+      <created>1587670880382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587670880382</updated>
+      <workItem from="1587670881843" duration="2752000" />
+      <workItem from="1587701400818" duration="2613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="567" y="391" key="RiderGenerateDialog" timestamp="1587671305546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="391" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587671305546" />
+    <state x="314" y="272" width="1539" height="674" key="dock-window-1" timestamp="1587704060886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1503" y="216" width="1539" height="878" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1587703798779" />
+    <state x="314" y="272" width="1539" height="674" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587704060886" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1587701879805">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1587701879805" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587702894310">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1587702894310" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587701796349" />
+  </component>
+</project>
